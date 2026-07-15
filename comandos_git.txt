@@ -1,8 +1,8 @@
-git init . - cria um repo git na pasta atual
-git status - mostra o status do trabalho do arquivo
+git init .       - cria um repo git na pasta atual
+git status       - mostra o status do trabalho do arquivo
 git add nome_arquivo - adiciona arquivo p ser commitado
-git commit -m "descricao do commit" - faz commit doq estava p ser commitado
-git log - mostra todo o historico de commit
+git commit       -m "descricao do commit" - faz commit doq estava p ser commitado
+git log          - mostra todo o historico de commit
 
 ## FLUXO DE TRABALHO
 
@@ -12,7 +12,7 @@ git log - mostra todo o historico de commit
 4. git status
 5. git add "nome do arquivo"
 6. git status
-7. git commit -m "mensagem"
+7. git commit -m "mensagem estranha"
 8. git status
-9. volta para o passo 3.
+9. volta para o passo 3
 
