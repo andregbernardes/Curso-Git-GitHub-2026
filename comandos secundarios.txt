@@ -5,3 +5,9 @@ este arquivo contem comandos secundarios de git
 
 #  comandos mais genericos
 - comandos estranhos
+
+# mais comandos!!!
+
+ksdnoasdasndi
+siandoasndo
+nsnmdoassomd
