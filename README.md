@@ -9,3 +9,9 @@ além disso, vamos trabalhar com GitFlow
 ao final do curso e Visual Studio Code.
 
 Confira tudo no canal Téo Me Why no Yt.
+
+----
+
+Pessoas participantes:
+
+- André
